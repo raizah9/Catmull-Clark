@@ -1,3 +1,4 @@
+```markdown
 # Catmull-Clark
 
 Dans cette première partie du projet, l'objectif était de mettre en œuvre l'algorithme de Catmull-Clark pour la subdivision des surfaces. L'application prend en entrée un maillage polygonal initial, représenté par une liste de sommets et de faces. L'algorithme de Catmull-Clark est appliqué de manière itérative pour générer plusieurs niveaux de subdivision.
